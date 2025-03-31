@@ -18,4 +18,3 @@ This tool is designed to assist job seekers in optimizing their resumes to match
 ## Purpose of This Tool
 - **Eliminate Human Errors**: The tool aims to reduce mistakes and enhance the quality of resumes by providing tailored suggestions.
 
-## Try It Out Here! -> [SikeResume](https://sikeresume.streamlit.app/)
