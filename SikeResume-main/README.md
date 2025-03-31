@@ -1,8 +1,8 @@
-# Note : The hosted site doesn't work anymore due to Google API Violation lol
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-# SikeResume - Resume Tweaker Tool
+#  Resume Tweaker Tool
 
 This tool is designed to assist job seekers in optimizing their resumes to match specific job descriptions in less than 10 seconds!
 
